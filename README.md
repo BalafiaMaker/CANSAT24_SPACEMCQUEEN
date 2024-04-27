@@ -1,4 +1,5 @@
 # CANSAT24_SPACEMCQUEEN
 Material per poder construir el CanSat
 🧑‍🏭
-![image](https://github.com/BalafiaMaker/CANSAT24_SPACEMCQUEEN/assets/168301683/cdce24e2-c19c-4fc7-8020-fc9d015f5dd9)
+![Captura_de_pantalla_2024-04-27_164813-removebg-preview](https://github.com/BalafiaMaker/CANSAT24_SPACEMCQUEEN/assets/168301683/cf5a0641-235c-4d5b-95fe-e8e5133f4105)
+
